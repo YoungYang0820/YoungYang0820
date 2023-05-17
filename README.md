@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![YoungYang0820's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungYang0820&show_icons=true&theme=cobalt&count_private=true)
+![YoungYang0820's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungYang0820&show_icons=true&theme=gruvbox&count_private=true)
 
 <!--
 Here are some ideas to get you started:
